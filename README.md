@@ -22,6 +22,7 @@ lazygit4
 ## Apps!
 
 - Zed - `brew install --cask zed`
+- Opencode - `brew install anomalyco/tap/opencode`
 - Notion - `brew install --cask notion`
 - Raycast - `brew install --cask raycast`
   - Replace capslock with "Hyper Key ✨" (Go to Advanced, Hyper Key = Capslock)
