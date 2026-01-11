@@ -5,6 +5,7 @@
 brew install gh
 gh auth login
 
-# Git Setup
-
+# Git Setup (Use your Github username + email)
+git config --global user.name "anvllmr"
+git config --global user.email "your.email@example.com"
 ```
