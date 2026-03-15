@@ -144,6 +144,9 @@ alias cd="z"
 # opencode better
 alias oc="opencode"
 
+# alias
+alias lg="lazygit"
+
 # For zsh autosuggestions
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
