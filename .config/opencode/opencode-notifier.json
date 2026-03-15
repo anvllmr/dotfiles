@@ -1,0 +1,13 @@
+{
+  "notification": false,
+  "events": {
+    "permission": { "sound": true },
+    "complete": { "sound": true },
+    "subagent_complete": { "sound": false },
+    "error": { "sound": false },
+    "question": { "sound": true }
+  },
+  "sounds": {
+    "complete": "/Users/andreavillamor/dotfiles/.config/opencode/complete.mp3"
+  }
+}

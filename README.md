@@ -2,6 +2,7 @@
 
 1. Go to [brew.sh](https://brew.sh/) and copy the command to install Homebrew. Paste on **Terminal**.
 2. Install wezterm `brew install --cask wezterm`
+3. Install [oh-my-zsh](https://ohmyz.sh/) and copy `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`. Paste on **Terminal**.
 
 ### Git Setup
 
@@ -33,3 +34,5 @@ lazygit4
    - ✨ + S - Slack
    - ✨ + Z - Zed
    - ✨ + W - Wezterm
+- FNM - `brew install fnm`
+- Bun `brew tap oven-sh/bun` `bun install bun`
