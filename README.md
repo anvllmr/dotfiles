@@ -20,6 +20,8 @@ brew install lazygit
 lazygit
 
 # (optional) For work after cloning
+gh auth setup-git # one time only
+gh auth status
 gh auth switch
 git config --local user.name "__"
 git config --local user.email "__@__"
