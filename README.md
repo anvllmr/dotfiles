@@ -17,7 +17,12 @@ git config --global user.email "your.email@example.com"
 
 # (optional) Do git even faster
 brew install lazygit
-lazygit4
+lazygit
+
+# (optional) For work after cloning
+gh auth switch
+git config --local user.name "__"
+git config --local user.email "__@__"
 ```
 
 ## Apps!
